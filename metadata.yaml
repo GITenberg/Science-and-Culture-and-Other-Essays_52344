@@ -1,0 +1,34 @@
+_repo: Science-and-Culture-and-Other-Essays_52344
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Huxley, Thomas Henry
+    alias: Huxley, T. H. (Thomas Henry)
+    birthdate: 1825
+    deathdate: 1895
+    gutenberg_agent_id: '595'
+    url: http://www.gutenberg.org/2009/agents/595
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Henry_Huxley
+description: ''
+gutenberg_issued: '2016-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52344'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Q'
+- !lcsh 'Science'
+- GITenberg
+tableOfContents: 'Science and culture -- Universities: actual and ideal -- Technical
+  education -- Elementary instruction in physiology -- Joseph Priestley -- On the
+  method of Zadig -- On the border territory between the animal and the vegetable
+  kingdoms -- On certain errors respecting the structure of the heart attributed to
+  Aristotle -- On the hypothesis that animals are automata, and its history -- On
+  sensation and the unity of structure of the sensiferous organs -- Evolution in biology
+  -- The coming of age of "The origin of species" -- The connection of the biological
+  sciences with medicine.'
+title: Science and Culture, and Other Essays
+url: http://www.gutenberg.org/ebooks/52344
